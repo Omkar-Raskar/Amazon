@@ -1,1 +1,1 @@
-# zomato
+# amazon_clone
